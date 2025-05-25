@@ -1,6 +1,7 @@
 [
   {
     "id": "word001",
+    "lesson_id": "lesson01",
     "img": "https://example.com/images/thankyou.jpg",
     "word": "ありがとう",
     "pronunciation": "Arigatou",
@@ -13,6 +14,7 @@
   },
   {
     "id": "word002",
+    "lesson_id": "lesson02",
     "img": "https://example.com/images/hello.jpg",
     "word": "こんにちは",
     "pronunciation": "Konnichiwa",
@@ -25,6 +27,7 @@
   },
   {
     "id": "word003",
+    "lesson_id": "lesson03",
     "img": "https://example.com/images/excuseme.jpg",
     "word": "すみません",
     "pronunciation": "Sumimasen",
@@ -37,6 +40,7 @@
   },
   {
     "id": "word004",
+    "lesson_id": "lesson04",
     "img": "https://example.com/images/goodbye.jpg",
     "word": "さようなら",
     "pronunciation": "Sayounara",
@@ -49,6 +53,7 @@
   },
   {
     "id": "word005",
+    "lesson_id": "lesson05",
     "img": "https://example.com/images/water.jpg",
     "word": "水",
     "pronunciation": "Mizu",
@@ -61,6 +66,7 @@
   },
   {
     "id": "word006",
+    "lesson_id": "lesson06",
     "img": "https://example.com/images/eat.jpg",
     "word": "食べる",
     "pronunciation": "Taberu",
@@ -73,6 +79,7 @@
   },
   {
     "id": "word007",
+    "lesson_id": "lesson07",
     "img": "https://example.com/images/beautiful.jpg",
     "word": "美しい",
     "pronunciation": "Utsukushii",
@@ -85,6 +92,7 @@
   },
   {
     "id": "word008",
+    "lesson_id": "lesson08",
     "img": "https://example.com/images/friend.jpg",
     "word": "友達",
     "pronunciation": "Tomodachi",
@@ -97,6 +105,7 @@
   },
   {
     "id": "word009",
+    "lesson_id": "lesson09",
     "img": "https://example.com/images/study.jpg",
     "word": "勉強",
     "pronunciation": "Benkyou",
@@ -109,6 +118,7 @@
   },
   {
     "id": "word010",
+    "lesson_id": "lesson10",
     "img": "https://example.com/images/difficult.jpg",
     "word": "難しい",
     "pronunciation": "Muzukashii",
