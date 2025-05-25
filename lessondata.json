@@ -1,0 +1,122 @@
+[
+  {
+    "id": "word001",
+    "img": "https://example.com/images/thankyou.jpg",
+    "word": "ありがとう",
+    "pronunciation": "arigatou",
+    "meaning": "thank you",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "Used to express gratitude in informal settings.",
+    "example": "ありがとう、手伝ってくれて！ (arigatou, tetsudatte kurete!) - Thank you for helping me!"
+  },
+  {
+    "id": "word002",
+    "img": "https://example.com/images/hello.jpg",
+    "word": "こんにちは",
+    "pronunciation": "konnichiwa",
+    "meaning": "hello",
+    "part_of_speech": "greeting",
+    "difficulty": "easy",
+    "lesson_no": 2,
+    "when_to_say": "Used to greet someone during the daytime.",
+    "example": "こんにちは、お元気ですか？ (konnichiwa, o-genki desu ka?) - Hello, how are you?"
+  },
+  {
+    "id": "word003",
+    "img": "https://example.com/images/excuseme.jpg",
+    "word": "すみません",
+    "pronunciation": "sumimasen",
+    "meaning": "excuse me / I'm sorry",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to get attention or apologize politely.",
+    "example": "すみません、道を教えてください。 (sumimasen, michi o oshiete kudasai.) - Excuseme, please tell me the way."
+  },
+  {
+    "id": "word004",
+    "img": "https://example.com/images/goodbye.jpg",
+    "word": "さようなら",
+    "pronunciation": "sayounara",
+    "meaning": "goodbye",
+    "part_of_speech": "greeting",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used when parting, often for longer separations.",
+    "example": "さようなら、また会いましょう。 (sayounara, mata aimashou.) - Goodbye, let's meet again."
+  },
+  {
+    "id": "word005",
+    "img": "https://example.com/images/water.jpg",
+    "word": "水",
+    "pronunciation": "mizu",
+    "meaning": "water",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used when referring to water in any context.",
+    "example": "水をください。 (mizu o kudasai.) - Please give me water."
+  },
+  {
+    "id": "word006",
+    "img": "https://example.com/images/eat.jpg",
+    "word": "食べる",
+    "pronunciation": "taberu",
+    "meaning": "to eat",
+    "part_of_speech": "verb",
+    "difficulty": "medium",
+    "lesson_no": 6,
+    "when_to_say": "Used when talking about eating food.",
+    "example": "毎日、朝ご飯を食べる。 (mainichi, asa gohan o taberu.) - I eat breakfast every day."
+  },
+  {
+    "id": "word007",
+    "img": "https://example.com/images/beautiful.jpg",
+    "word": "美しい",
+    "pronunciation": "utsukushii",
+    "meaning": "beautiful",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 7,
+    "when_to_say": "Used to describe something visually appealing.",
+    "example": "この花は美しいね。 (kono hana wa utsukushii ne.) - This flower is beautiful, isn't it?"
+  },
+  {
+    "id": "word008",
+    "img": "https://example.com/images/friend.jpg",
+    "word": "友達",
+    "pronunciation": "tomodachi",
+    "meaning": "friend",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used when referring to a friend or friends.",
+    "example": "友達と映画を見ました。 (tomodachi to eiga o mimashita.) - I watched a movie with friends."
+  },
+  {
+    "id": "word009",
+    "img": "https://example.com/images/study.jpg",
+    "word": "勉強",
+    "pronunciation": "benkyou",
+    "meaning": "study",
+    "part_of_speech": "noun/verb",
+    "difficulty": "medium",
+    "lesson_no": 9,
+    "when_to_say": "Used when talking about studying or learning.",
+    "example": "日本語を勉強しています。 (nihongo o benkyou shiteimasu.) - I am studying Japanese."
+  },
+  {
+    "id": "word010",
+    "img": "https://example.com/images/difficult.jpg",
+    "word": "難しい",
+    "pronunciation": "muzukashii",
+    "meaning": "difficult",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 10,
+    "when_to_say": "Used to describe something challenging or complex.",
+    "example": "この問題は難しいです。 (kono mondai wa muzukashii desu.) - This problem is difficult."
+  }
+]
