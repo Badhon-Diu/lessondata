@@ -22,7 +22,7 @@
     }
   ],
   "audio": "muzukashii.mp3",
-  "image": "https://example.com/images/difficult.jpg",
+  "image": "https://images.unsplash.com/photo-1461727885569-b2ddec0c4328?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "cultural_tip": "In Japanese culture, people often avoid saying something is 'impossible' and instead say it's '難しい' to remain polite.",
   "grammar_note": "“Muzukashii” is an i-adjective and can be conjugated: 難しくない (not difficult), 難しかった (was difficult), etc."
 }
