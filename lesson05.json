@@ -1,1 +1,29 @@
+{
+  "lesson": 5,
+  "kanji": "水",
+  "romaji": "Mizu",
+  "meaning": "Water",
+  "difficulty": "Easy",
+  "part_of_speech": "Noun",
+  "polite_form": "お水 (omizu)",
+  "example": {
+    "japanese": "水をください。",
+    "romaji": "mizu o kudasai.",
+    "translation": "Please give me water."
+  },
+  "related_expressions": [
+    {
+      "expression": "飲み水",
+      "meaning": "Drinking water"
+    },
+    {
+      "expression": "冷たい水",
+      "meaning": "Cold water"
+    }
+  ],
+  "audio": "mizu.mp3",
+  "image": "https://example.com/images/water.jpg",
+  "cultural_tip": "In Japanese restaurants, customers are often served water automatically and for free.",
+  "grammar_note": "The honorific prefix 'お' (as in お水) makes the noun more polite and is commonly used in customer-facing situations."
+}
 
