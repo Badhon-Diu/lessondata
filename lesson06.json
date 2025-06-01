@@ -22,7 +22,7 @@
     }
   ],
   "audio": "taberu.mp3",
-  "image": "https://example.com/images/eat.jpg",
+  "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "cultural_tip": "It’s customary in Japan to say “いただきます” before eating and “ごちそうさまでした” after finishing the meal.",
   "grammar_note": "“Taberu” is a ru-verb (also known as an ichidan verb). Its polite form is created by replacing ‘ru’ with ‘masu’."
 }
