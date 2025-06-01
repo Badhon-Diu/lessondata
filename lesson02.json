@@ -1,1 +1,29 @@
-lesson02
+
+{
+  "lesson": 2,
+  "kanji": "こんにちは",
+  "romaji": "Konnichiwa",
+  "meaning": "Hello",
+  "difficulty": "Easy",
+  "part_of_speech": "Greeting",
+  "polite_form": "こんにちは (konnichiwa)",
+  "example": {
+    "japanese": "こんにちは、お元気ですか？",
+    "romaji": "konnichiwa, o-genki desu ka?",
+    "translation": "Hello, how are you?"
+  },
+  "related_expressions": [
+    {
+      "expression": "やあ",
+      "meaning": "Hi (casual)"
+    },
+    {
+      "expression": "こんばんは",
+      "meaning": "Good evening"
+    }
+  ],
+  "audio": "konnichiwa.mp3",
+  "image": "https://example.com/images/hello.jpg",
+  "cultural_tip": "“こんにちは” is typically used from late morning until early evening. It’s a standard daytime greeting.",
+  "grammar_note": "Although written with the character 'は' (ha), it is pronounced 'wa' in this greeting due to its role as a topic marker."
+}
