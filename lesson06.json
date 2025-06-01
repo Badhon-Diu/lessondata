@@ -1,0 +1,28 @@
+{
+  "lesson": 6,
+  "kanji": "食べる",
+  "romaji": "Taberu",
+  "meaning": "To eat",
+  "difficulty": "Medium",
+  "part_of_speech": "Verb",
+  "polite_form": "食べます (tabemasu)",
+  "example": {
+    "japanese": "毎日、朝ご飯を食べる。",
+    "romaji": "mainichi, asa gohan o taberu.",
+    "translation": "I eat breakfast every day."
+  },
+  "related_expressions": [
+    {
+      "expression": "いただきます",
+      "meaning": "Said before eating (literally: I humbly receive)"
+    },
+    {
+      "expression": "ごちそうさまでした",
+      "meaning": "Said after eating (Thank you for the meal)"
+    }
+  ],
+  "audio": "taberu.mp3",
+  "image": "https://example.com/images/eat.jpg",
+  "cultural_tip": "It’s customary in Japan to say “いただきます” before eating and “ごちそうさまでした” after finishing the meal.",
+  "grammar_note": "“Taberu” is a ru-verb (also known as an ichidan verb). Its polite form is created by replacing ‘ru’ with ‘masu’."
+}
