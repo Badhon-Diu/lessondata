@@ -1,0 +1,28 @@
+{
+  "lesson": 7,
+  "kanji": "美しい",
+  "romaji": "Utsukushii",
+  "meaning": "Beautiful",
+  "difficulty": "Medium",
+  "part_of_speech": "Adjective",
+  "polite_form": "美しいです (utsukushii desu)",
+  "example": {
+    "japanese": "この花は美しいね。",
+    "romaji": "kono hana wa utsukushii ne.",
+    "translation": "This flower is beautiful, isn't it?"
+  },
+  "related_expressions": [
+    {
+      "expression": "きれい",
+      "meaning": "Pretty / Clean"
+    },
+    {
+      "expression": "素敵",
+      "meaning": "Lovely / Nice"
+    }
+  ],
+  "audio": "utsukushii.mp3",
+  "image": "https://example.com/images/beautiful.jpg",
+  "cultural_tip": "“美しい” has a poetic or formal nuance, often used in literature or to describe nature and art.",
+  "grammar_note": "“Utsukushii” is an i-adjective, so it can be conjugated as “美しくない” (not beautiful), “美しかった” (was beautiful), etc."
+}
