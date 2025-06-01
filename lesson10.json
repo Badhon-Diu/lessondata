@@ -1,0 +1,28 @@
+{
+  "lesson": 10,
+  "kanji": "難しい",
+  "romaji": "Muzukashii",
+  "meaning": "Difficult",
+  "difficulty": "Hard",
+  "part_of_speech": "Adjective",
+  "polite_form": "難しいです (muzukashii desu)",
+  "example": {
+    "japanese": "この問題は難しいです。",
+    "romaji": "kono mondai wa muzukashii desu.",
+    "translation": "This problem is difficult."
+  },
+  "related_expressions": [
+    {
+      "expression": "複雑",
+      "meaning": "Complicated / Complex"
+    },
+    {
+      "expression": "大変",
+      "meaning": "Tough / Hard (situation)"
+    }
+  ],
+  "audio": "muzukashii.mp3",
+  "image": "https://example.com/images/difficult.jpg",
+  "cultural_tip": "In Japanese culture, people often avoid saying something is 'impossible' and instead say it's '難しい' to remain polite.",
+  "grammar_note": "“Muzukashii” is an i-adjective and can be conjugated: 難しくない (not difficult), 難しかった (was difficult), etc."
+}
