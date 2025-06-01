@@ -1,1 +1,29 @@
 
+{
+  "lesson": 3,
+  "kanji": "すみません",
+  "romaji": "Sumimasen",
+  "meaning": "Excuse me / I'm sorry",
+  "difficulty": "Hard",
+  "part_of_speech": "Expression",
+  "polite_form": "すみません (sumimasen)",
+  "example": {
+    "japanese": "すみません、道を教えてください。",
+    "romaji": "sumimasen, michi o oshiete kudasai.",
+    "translation": "Excuse me, please tell me the way."
+  },
+  "related_expressions": [
+    {
+      "expression": "ごめんなさい",
+      "meaning": "I'm sorry (casual)"
+    },
+    {
+      "expression": "失礼します",
+      "meaning": "Excuse me (formal)"
+    }
+  ],
+  "audio": "sumimasen.mp3",
+  "image": "https://example.com/images/excuseme.jpg",
+  "cultural_tip": "“すみません” is commonly used to get someone’s attention, make a request, or offer an apology. It’s very versatile and polite.",
+  "grammar_note": "“Sumimasen” can function as both an apology and a way to initiate contact, especially with strangers."
+}
