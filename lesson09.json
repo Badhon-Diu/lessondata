@@ -1,0 +1,28 @@
+{
+  "lesson": 9,
+  "kanji": "勉強",
+  "romaji": "Benkyou",
+  "meaning": "Study",
+  "difficulty": "Hard",
+  "part_of_speech": "Noun/Verb",
+  "polite_form": "勉強します (benkyou shimasu)",
+  "example": {
+    "japanese": "日本語を勉強しています。",
+    "romaji": "nihongo o benkyou shiteimasu.",
+    "translation": "I am studying Japanese."
+  },
+  "related_expressions": [
+    {
+      "expression": "学習",
+      "meaning": "Learning / Study (more academic/formal)"
+    },
+    {
+      "expression": "予習",
+      "meaning": "Preparation study"
+    }
+  ],
+  "audio": "benkyou.mp3",
+  "image": "https://example.com/images/study.jpg",
+  "cultural_tip": "Studying is highly valued in Japan, especially among students preparing for exams. Cram schools (塾 - juku) are common.",
+  "grammar_note": "“Benkyou” is a noun, but when combined with 'する' (to do), it becomes a verb (勉強する), a common structure in Japanese."
+}
