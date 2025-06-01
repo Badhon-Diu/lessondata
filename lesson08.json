@@ -1,0 +1,28 @@
+{
+  "lesson": 8,
+  "kanji": "友達",
+  "romaji": "Tomodachi",
+  "meaning": "Friend",
+  "difficulty": "Easy",
+  "part_of_speech": "Noun",
+  "polite_form": "友達 (tomodachi)",
+  "example": {
+    "japanese": "友達と映画を見ました。",
+    "romaji": "tomodachi to eiga o mimashita.",
+    "translation": "I watched a movie with friends."
+  },
+  "related_expressions": [
+    {
+      "expression": "親友",
+      "meaning": "Best friend"
+    },
+    {
+      "expression": "仲間",
+      "meaning": "Companion / Comrade"
+    }
+  ],
+  "audio": "tomodachi.mp3",
+  "image": "https://example.com/images/friend.jpg",
+  "cultural_tip": "Friendship in Japan can take time to develop, and the term '友達' often implies a trusted, respectful relationship.",
+  "grammar_note": "“Tomodachi” is a regular noun. To make it plural, context or words like ‘たくさんの’ (many) are used rather than changing the word itself."
+}
