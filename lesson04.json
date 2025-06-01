@@ -1,1 +1,29 @@
 
+{
+  "lesson": 4,
+  "kanji": "さようなら",
+  "romaji": "Sayounara",
+  "meaning": "Goodbye",
+  "difficulty": "Hard",
+  "part_of_speech": "Greeting",
+  "polite_form": "さようなら (sayounara)",
+  "example": {
+    "japanese": "さようなら、また会いましょう。",
+    "romaji": "sayounara, mata aimashou.",
+    "translation": "Goodbye, let's meet again."
+  },
+  "related_expressions": [
+    {
+      "expression": "じゃあね",
+      "meaning": "See you (casual)"
+    },
+    {
+      "expression": "またね",
+      "meaning": "See you again"
+    }
+  ],
+  "audio": "sayounara.mp3",
+  "image": "https://example.com/images/goodbye.jpg",
+  "cultural_tip": "“さようなら” is used for more permanent or long-term farewells. It’s less common in everyday short partings.",
+  "grammar_note": "“Sayounara” is often reserved for formal or emotionally significant partings. Casual alternatives are more common in daily life."
+}
